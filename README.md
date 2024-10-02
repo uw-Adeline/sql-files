@@ -85,6 +85,10 @@ GRANT SELECT ON Students TO username;
 -- Rollback a transaction (if needed)
 ROLLBACK; -- Assuming a previous transaction was made but needs to be undone
 ```
+# relationship shown in the tables created
+
+![alt text](image.png)
+
 # conclusion 
 This guide provides a comprehensive overview of how to design a simple Oracle Database schema, create tables, manipulate data, and perform queries using SQL. Adjust the schema and commands as necessary to fit your specific requirements! If you have any more specific requirements or questions, feel free to ask!
 
